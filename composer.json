@@ -1,0 +1,11 @@
+{
+    "name": "rupomsoft/laravel-launch-kit",
+    "description": "A simple Laravel package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AppLaunchKit\\LaunchKit\\": "src/"
+        }
+    },
+    "require": {}
+}
