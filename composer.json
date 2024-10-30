@@ -7,5 +7,6 @@
             "AppLaunchKit\\LaunchKit\\": "src/"
         }
     },
+    "license": "MIT",
     "require": {}
 }
